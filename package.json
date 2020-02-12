@@ -11,7 +11,17 @@
   },
   "dependencies": {
     "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react-native": "0.61.5",
+    "react-native-day-picker": "1.2.1",
+    "react-native-elements": "1.0.0-beta4",
+    "react-native-maps": "0.17.1",
+    "react-native-swiper": "1.5.5",
+    "react-native-tab-navigator": "0.3.4",
+    "react-native-vector-icons": "4.5.0",
+    "react-navigation": "1.0.0-beta.19",
+    "react-redux": "5.0.6",
+    "redux": "3.7.2",
+    "redux-saga": "0.16.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
